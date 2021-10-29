@@ -1,0 +1,4 @@
+.DS_Store
+*.zip
+ocr_project/datasets/*
+A4/task4/ocr_project/datasets/*
